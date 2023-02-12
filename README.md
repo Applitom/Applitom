@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**Applitom/Applitom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer passionate about creating apps that solve problems and make people's lives easier. Here's a list of some of the apps I've worked on.
 
-Here are some ideas to get you started:
+## Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[WorthTracker](https://worthtracker.com)**: WorthTracker makes it easy for you to track your net worth.
+- **[Todollo](https://applitom.com/todollo)**: Turn your Trello to a simple Todo list.
+- **[Kohand](https://apps.apple.com/app/kohand/id1061717006)**: Control Kodi from your wrist.
+- **[Atajo](https://itsallwidgets.com/atajo)**: Shortcuts for Trello.
+
+## Contact
+
+If you have any questions or want to collaborate, feel free to reach out to me at [johndoe@example.com](https://applitom.com/#contact).
