@@ -11,4 +11,4 @@ I'm a software developer passionate about creating apps that solve problems and 
 
 ## Contact
 
-If you have any questions or want to collaborate, feel free to reach out to me at [johndoe@example.com](https://applitom.com/#contact).
+If you have any questions or want to collaborate, feel free to reach out to me at [https://applitom.com/#contact](https://applitom.com/#contact).
